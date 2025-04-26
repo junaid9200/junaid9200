@@ -23,5 +23,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SanaUllah04&icon=4&color=0)](https://visitcount.itsvg.in)
-<img src="https://raw.githubusercontent.com/junaid9200/junaid9200/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/junaid9200/junaid9200/output/snake.yml" alt="Snake animation" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
